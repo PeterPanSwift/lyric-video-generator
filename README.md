@@ -12,10 +12,13 @@
 [![Platform](https://img.shields.io/badge/platform-macOS-000000?logo=apple&logoColor=white)](#-requirements)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
+[![Watch on YouTube](https://img.shields.io/badge/▶%20Demo%20video-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=EbkdiqEc0lc)
 
 🌐 **[English](#english)** · **[繁體中文](#zh-tw)**
 
-<img src="docs/demo1.png" alt="Title card with handwritten font, glowing particles and audio spectrum" width="800">
+<a href="https://www.youtube.com/watch?v=EbkdiqEc0lc"><img src="docs/demo1.png" alt="Title card with handwritten font, glowing particles and audio spectrum — click to watch the demo video on YouTube" width="800"></a>
+
+🎬 **[Watch the full demo video on YouTube ▶](https://www.youtube.com/watch?v=EbkdiqEc0lc)** · 🎬 **[在 YouTube 觀看完整示範影片 ▶](https://www.youtube.com/watch?v=EbkdiqEc0lc)**
 
 <img src="docs/demo2.png" alt="Lyric line fading in over the scene with the mirrored spectrum at the bottom" width="800">
 
@@ -31,7 +34,12 @@
 
 ## 🇬🇧 English
 
-> 🔗 Jump to: [Features](#-features) · [How it works](#-how-it-works) · [Requirements](#-requirements) · [Installation](#-installation) · [Usage](#-usage) · [Options](#-options) · [Fonts](#-fonts) · [FAQ](#-faq) · [中文說明](#zh-tw)
+> 🔗 Jump to: [Demo](#-demo) · [Features](#-features) · [How it works](#-how-it-works) · [Requirements](#-requirements) · [Installation](#-installation) · [Usage](#-usage) · [Options](#-options) · [Fonts](#-fonts) · [FAQ](#-faq) · [中文說明](#zh-tw)
+
+### 🎬 Demo
+
+The video below was produced entirely by this tool from one MP3, one lyrics text file and one PNG:
+**https://www.youtube.com/watch?v=EbkdiqEc0lc**
 
 ### ✨ Features
 
@@ -186,7 +194,12 @@ Issues and pull requests are welcome. Ideas: karaoke-style per-character highlig
 
 ## 🇹🇼 繁體中文
 
-> 🔗 快速跳轉：[功能](#-功能) · [運作原理](#-運作原理) · [環境需求](#-環境需求) · [安裝](#-安裝) · [使用方式](#-使用方式) · [參數](#-參數) · [字型](#-字型) · [常見問題](#-常見問題) · [English](#english)
+> 🔗 快速跳轉：[示範影片](#-示範影片) · [功能](#-功能) · [運作原理](#-運作原理) · [環境需求](#-環境需求) · [安裝](#-安裝) · [使用方式](#-使用方式) · [參數](#-參數) · [字型](#-字型) · [常見問題](#-常見問題) · [English](#english)
+
+### 🎬 示範影片
+
+下面這支影片完全由本工具產生，輸入只有一個 MP3、一個歌詞 txt 和一張 PNG：
+**https://www.youtube.com/watch?v=EbkdiqEc0lc**
 
 ### ✨ 功能
 
