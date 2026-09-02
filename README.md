@@ -19,6 +19,10 @@
 
 <img src="docs/demo2.png" alt="Lyric line fading in over the scene with the mirrored spectrum at the bottom" width="800">
 
+<img src="docs/demo3.png" alt="Another song and background image: a cartoon fox with a laptop, handwritten lyrics, particles and spectrum" width="800">
+
+<sub>Same script, different song and background image — swap the picture and the mood follows.</sub>
+
 </div>
 
 ---
