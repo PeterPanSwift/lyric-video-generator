@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Media inputs / outputs (songs, lyrics, rendered videos are not part of the repo)
+output/
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.mp4
+*.mov
+*.srt
+lyrics*.txt
+
+# Fonts you drop in locally
+*.ttf
+*.otf
+*.ttc
